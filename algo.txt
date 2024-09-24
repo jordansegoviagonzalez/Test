@@ -3,3 +3,4 @@ Ask who wants pizza
 Call to get pizza
 Pizza is here
 Eat Pizza
+Clean after eating pizza 
